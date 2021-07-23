@@ -1,4 +1,6 @@
-### KwongChunYip's GitHub Profile 👋
+### kwongchunyip's GitHub Profile 👋
+
+[Django, Angular, Graphql, PostgreSQL] == ✨😄😄😄✨
 
 <!--
 **kwongchunyip/kwongchunyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
