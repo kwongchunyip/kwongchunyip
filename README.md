@@ -1,6 +1,6 @@
 ### kwongchunyip's GitHub Profile 👋
 
-[Django, React, RESTful, Redis, PostgreSQL] == ✨😄😄😄✨
+kwongchunyip == ✨😄😄😄✨
 
 <!--
 **kwongchunyip/kwongchunyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
